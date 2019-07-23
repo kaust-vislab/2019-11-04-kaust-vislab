@@ -97,6 +97,10 @@ This block displays the date and links to Google Calendar.
 </p>
 {% endif %}
 
+<p id="registration">
+  <strong>Registration:</strong> <a href="https://kaustforms.formstack.com/forms/intro_r_for_data_science_fall_2019_redux ">Register Now!</a>
+</p>
+
 {% comment %}
 SPECIAL REQUIREMENTS
 
