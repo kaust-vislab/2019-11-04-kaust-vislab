@@ -6,14 +6,14 @@ address: "Auditorium 0215 (between buildings 2 and 3)"
 country: "sa"
 language: "en"
 latlng: "22.307807, 39.105358"
-humandate: "2 September 2019"
+humandate: "25 November 2019"
 humantime: "8:30 am  - 5:00 pm"
-startdate: 2019-09-02      
-enddate: 2019-09-02        
+startdate: 2019-11-25      
+enddate: 2019-11-25        
 instructor: ["David R. Pugh"]
 helper: ["TBD"]
 email: ["help@vis.kaust.edu.sa"]
-collaborative_notes: https://pad.carpentries.org/2019-09-02-kaust-vislab
+collaborative_notes: https://pad.carpentries.org/2019-11-25-kaust-vislab
 ---
 
 {% comment %} See instructions in the comments below for how to edit specific sections of this workshop template. {% endcomment %}
