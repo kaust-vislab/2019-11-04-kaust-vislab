@@ -101,6 +101,10 @@ This block displays the date and links to Google Calendar.
   <strong>Registration:</strong> <a href="https://kaustforms.formstack.com/forms/intro_r_for_data_science_fall_2019_redux ">Register Now!</a>
 </p>
 
+<p id="course-material">
+  <strong>Course Materials:</strong> <a href="https://swcarpentry.github.io/r-novice-gapminder/">R For Reproducible Scientific Analysis</a>
+</p>
+
 {% comment %}
 SPECIAL REQUIREMENTS
 
